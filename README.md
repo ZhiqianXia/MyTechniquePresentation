@@ -11,8 +11,8 @@ Wechat: Xzq_Fsf
 
 
 # LLVM 
-1.【腾讯文档】LLVM IR https://docs.qq.com/slide/DT2ZFVWZ4c3NTVHRt
+1.【腾讯文档】Hello, GPU Compiler https://docs.qq.com/slide/DT1loVGx5U2llUVFZ
 
-2.【腾讯文档】Hello, GPU Compiler https://docs.qq.com/slide/DT1loVGx5U2llUVFZ
+2.【腾讯文档】LLVM IR https://docs.qq.com/slide/DT2ZFVWZ4c3NTVHRt
 
 3.【腾讯文档】Hello, GPU Instruction Scheduler https://docs.qq.com/slide/DT2V3Y1ZrRUluY0F3
