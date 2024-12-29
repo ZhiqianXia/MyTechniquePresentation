@@ -10,8 +10,6 @@ csdn : https://blog.csdn.net/weixin_43258309?type=blog
 
 Emails: xzq0528@outlook.com
 
-Wechat: Xzq_Fsf
-
 
 
 # LLVM 
