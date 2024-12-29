@@ -1,5 +1,5 @@
 # MyTechniquePresentation
-技术演讲，非商业.
+技术演讲,欢迎交流.
 
 
 
