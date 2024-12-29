@@ -4,6 +4,10 @@
 
 
 # Contacts
+csdn : https://blog.csdn.net/weixin_43258309?type=blog
+
+哔哩哔哩 : https://space.bilibili.com/353384954?spm_id_from=333.337.0.0
+
 Emails: xzq0528@outlook.com
 
 Wechat: Xzq_Fsf
