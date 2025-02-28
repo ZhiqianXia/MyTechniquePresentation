@@ -32,6 +32,4 @@ Emails: xzq0528@outlook.com
    
 9.【腾讯文档】LLVM-SP3 介绍文件 https://docs.qq.com/slide/DT1ZmSEluR3RwZGts
 
-10.【腾讯文档】海光2024年技术职称评审参评PPT_夏志迁_主管工程师 https://docs.qq.com/slide/DT2t4Y0hKUmdHdmF4
-
-11.【腾讯文档】Control-flow Analysis in LLVM https://docs.qq.com/slide/DT3JPVlNhTnJWdnpa
+10.【腾讯文档】Control-flow Analysis in LLVM https://docs.qq.com/slide/DT3JPVlNhTnJWdnpa
