@@ -18,3 +18,5 @@ Emails: xzq0528@outlook.com
 2.【腾讯文档】LLVM IR https://docs.qq.com/slide/DT2ZFVWZ4c3NTVHRt
 
 3.【腾讯文档】Hello, GPU Instruction Scheduler https://docs.qq.com/slide/DT2V3Y1ZrRUluY0F3
+
+4. 【腾讯文档】HIPPTX ToolChain Design https://docs.qq.com/slide/DT3JLQmdUV0piVHRi
