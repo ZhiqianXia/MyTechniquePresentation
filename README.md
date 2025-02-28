@@ -22,16 +22,16 @@ Emails: xzq0528@outlook.com
 
 4.【腾讯文档】HIPPTX ToolChain Design https://docs.qq.com/slide/DT3JLQmdUV0piVHRi
 
-5. 【腾讯文档】CUDA 汇编兼容 - R1 https://docs.qq.com/slide/DT0Rsa1psWFZyalF4
+5.【腾讯文档】CUDA 汇编兼容 - R1 https://docs.qq.com/slide/DT0Rsa1psWFZyalF4
 
-6. 【腾讯文档】CUDA 汇编兼容 - R2 https://docs.qq.com/slide/DT09ic1BLTW90U2Zi
+6.【腾讯文档】CUDA 汇编兼容 - R2 https://docs.qq.com/slide/DT09ic1BLTW90U2Zi
 
-7. 【腾讯文档】CUDA 汇编兼容 - R3 https://docs.qq.com/slide/DT1dueExDTWFkVk9K
+7.【腾讯文档】CUDA 汇编兼容 - R3 https://docs.qq.com/slide/DT1dueExDTWFkVk9K
 
-8. 【腾讯文档】CUDA 汇编兼容 - R4 https://docs.qq.com/slide/DT2JMa3d4RFBHcXhX
+8.【腾讯文档】CUDA 汇编兼容 - R4 https://docs.qq.com/slide/DT2JMa3d4RFBHcXhX
    
-9. 【腾讯文档】LLVM-SP3 介绍文件 https://docs.qq.com/slide/DT1ZmSEluR3RwZGts
+9.【腾讯文档】LLVM-SP3 介绍文件 https://docs.qq.com/slide/DT1ZmSEluR3RwZGts
 
-10. 【腾讯文档】海光2024年技术职称评审参评PPT_夏志迁_主管工程师 https://docs.qq.com/slide/DT2t4Y0hKUmdHdmF4
+10.【腾讯文档】海光2024年技术职称评审参评PPT_夏志迁_主管工程师 https://docs.qq.com/slide/DT2t4Y0hKUmdHdmF4
 
-11. 【腾讯文档】Control-flow Analysis in LLVM https://docs.qq.com/slide/DT3JPVlNhTnJWdnpa
+11.【腾讯文档】Control-flow Analysis in LLVM https://docs.qq.com/slide/DT3JPVlNhTnJWdnpa
