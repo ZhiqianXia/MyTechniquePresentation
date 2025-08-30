@@ -17,8 +17,9 @@ Emails: xzq0528@outlook.com
 4.【腾讯文档】Control-flow Analysis in LLVM https://docs.qq.com/slide/DT3JPVlNhTnJWdnpa
 
 
-# 公司项目（用心做的东西，只剩下PPT）
-
+# 扣子智能体
+- GPU 体系架构专家： https://www.coze.cn/store/agent/7544248858923368482?bot_id=true
+- GPU 编译器专家 ：https://www.coze.cn/store/agent/7542726774073982991?bot_id=true
 
 
 # 其他学习
